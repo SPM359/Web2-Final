@@ -9,6 +9,62 @@
   ],
   "creatorBuild" : "34127",
   "files" : {
+    "\/Deploy\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/Deploy\/index.html",
+      "oF" : 0
+    },
+    "\/Dev\/Content\/activities.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/Dev\/Content\/activities.html",
+      "oF" : 0
+    },
+    "\/Dev\/Content\/camping.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/Dev\/Content\/camping.html",
+      "oF" : 0
+    },
+    "\/Dev\/Content\/features.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/Dev\/Content\/features.html",
+      "oF" : 0
+    },
+    "\/Dev\/Content\/hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/Dev\/Content\/hero.html",
+      "oF" : 0
+    },
+    "\/Dev\/Content\/history.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/Dev\/Content\/history.html",
+      "oF" : 0
+    },
+    "\/Dev\/Content\/wildlife.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/Dev\/Content\/wildlife.html",
+      "oF" : 0
+    },
     "\/Dev\/Global\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -39,6 +95,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/Dev\/Global\/scripts.html",
+      "oF" : 0
+    },
+    "\/Dev\/Global\/warning.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/Dev\/Global\/warning.html",
       "oF" : 0
     },
     "\/Dev\/index.kit" : {
